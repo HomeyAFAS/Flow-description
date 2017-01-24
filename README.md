@@ -1,1 +1,1 @@
-# AFAS-Connector
+# Flow description
