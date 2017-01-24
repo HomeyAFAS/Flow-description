@@ -1,0 +1,28 @@
+{
+    "id": "com.description.afas",
+    "name": {
+        "en": "Flow description"
+    },
+    "version": "1.0.0",
+    "compatibility": "1.x",
+    "author": {
+        "name": "Patrick Hopman",
+        "email": "patrickhopman@me.com"
+    },
+    "flow":{
+        "conditions": [
+            {
+                "id": "description",
+                "title": {
+                    "en": "Beschrijving"
+                },
+                "args": [
+                    {
+                        "name": "description",
+                        "type": "text"
+                    }
+                ]
+            }
+        ]
+    }
+}
